@@ -1,1 +1,1 @@
-# surya-zoro
+The AI Career Counselor is an intelligent application that provides personalized career recommendations based on a user’s skills, interests, and educational background. It uses machine learning and NLP techniques to analyze user inputs and suggest suitable career paths and job roles. The system offers quick, unbiased guidance to help users make informed career decisions.
